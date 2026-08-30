@@ -53,33 +53,9 @@ Meu foco é evoluir tecnicamente e, no futuro, desenvolver **softwares úteis, s
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=pie&langs_count=8&hide_border=true&theme=transparent&locale=pt-br" />
 </a>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardodecarvalholorenzib&theme=transparent&hide_border=true&locale=pt_BR" />
-
 </div>
 
-> 📌 O gráfico de linguagens é automático e usa o código dos meus repositórios para calcular a distribuição.
-
----
-
-## 📈 Uso das linguagens
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&locale=pt-br" />
-
-</div>
-
----
-
-## 🔥 Atividade
-
-<div align="center">
-
-[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=ricardodecarvalholorenzib&theme=github-compact&hide_border=true&area=true&days=90)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
+> 📌 O gráfico de linguagens é automático e representa a distribuição de código encontrada nos meus repositórios públicos. Ele não representa nível de domínio das linguagens.
 
 ---
 
@@ -93,7 +69,7 @@ Projeto criado durante meus estudos iniciais de Java para praticar entrada de da
 
 ### 🐍 Projetos em Python
 
-Conjunto de projetos e ferramentas desenvolvidos durante minha evolução em Python, incluindo aplicações de terminal, gerenciamento de dados e automações.
+Projetos e ferramentas desenvolvidos durante minha evolução em Python, incluindo aplicações de terminal, gerenciamento de dados e automações.
 
 ---
 
