@@ -51,8 +51,6 @@ Projetos e ferramentas desenvolvidos durante minha evolução em Python, incluin
 
 ---
 
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
