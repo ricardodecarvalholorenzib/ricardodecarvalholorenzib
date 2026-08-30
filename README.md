@@ -57,7 +57,7 @@ Projetos e ferramentas desenvolvidos durante minha evolução em Python, incluin
 Java → Fundamentos → Orientação a Objetos → Collections → Exceções
 ```
 
-Próximos passos
+# 📌 Próximos passos
 ```text
 SQL / Bancos de Dados → C++ → C → JavaScript → Desenvolvimento Web / Backend
 ```
