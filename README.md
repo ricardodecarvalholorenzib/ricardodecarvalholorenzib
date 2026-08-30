@@ -51,6 +51,19 @@ Projetos e ferramentas desenvolvidos durante minha evolução em Python, incluin
 
 ---
 
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=ricardodecarvalholorenzib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ricardodecarvalholorenzib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top languages" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=ricardodecarvalholorenzib&theme=onedark&hide_border=false" alt="GitHub streak" />
+</div>
+
+---
+
 ## 📚 O que estou estudando
 
 ```text
