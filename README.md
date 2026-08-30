@@ -53,7 +53,7 @@ Projetos e ferramentas desenvolvidos durante minha evolução em Python, incluin
 
 ## 📚 O que estou estudando
 
-```text
+
 Java
 ├── Fundamentos
 ├── Orientação a Objetos
@@ -66,7 +66,6 @@ Próximos passos
 ├── C
 ├── JavaScript
 └── Desenvolvimento Web / Backend
-```
 
 ---
 
