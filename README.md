@@ -6,10 +6,10 @@
 
 **Python | Java | SQL | Git | Backend**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ricardodecarvalholorenzib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardodecarvalholorenzib)
-[![Python](https://img.shields.io/badge/Python-Principal-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-Estudando-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![GitHub followers](https://img.shields.io/github/followers/ricardodecarvalholorenzib?style=for-the-badge&logo=github)](https://github.com/ricardodecarvalholorenzib)
+[![GitHub](https://img.shields.io/badge/GitHub-ricardodecarvalholorenzib-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ricardodecarvalholorenzib)
+[![Python](https://img.shields.io/badge/Python-Principal-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-Estudando-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
+[![GitHub followers](https://img.shields.io/github/followers/ricardodecarvalholorenzib?style=for-the-badge\&logo=github)](https://github.com/ricardodecarvalholorenzib)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 Sou estudante e desenvolvedor em formação, com interesse em **programação, desenvolvimento de sistemas e tecnologia**.
 
-Minha principal linguagem é **Python**. Atualmente estou estudando **Java**, principalmente seus fundamentos e orientação a objetos, enquanto construo projetos para colocar o conhecimento em prática.
+Minha principal linguagem é **Python**. Atualmente, estou estudando **Java**, principalmente seus fundamentos e orientação a objetos, enquanto desenvolvo projetos para colocar meus conhecimentos em prática.
 
 Meu foco é evoluir tecnicamente e, no futuro, desenvolver **softwares úteis, serviços e produtos que possam ser utilizados por pessoas e empresas**.
 
@@ -29,13 +29,13 @@ Meu foco é evoluir tecnicamente e, no futuro, desenvolver **softwares úteis, s
 
 <div align="center">
 
-| Linguagens | Ferramentas / Dados |
-|:---:|:---:|
-| 🐍 Python | 🔧 Git |
-| ☕ Java | 🐙 GitHub |
-| ⚙️ C++ *(próximo)* | 🗄️ SQL |
-| 🔩 C *(próximo)* | 🪶 SQLite |
-| 🌐 JavaScript *(futuro)* | 💻 Terminal / CLI |
+|        Linguagens        | Ferramentas / Dados |
+| :----------------------: | :-----------------: |
+|         🐍 Python        |        🔧 Git       |
+|          ☕ Java          |      🐙 GitHub      |
+|    ⚙️ C++ *(próximo)*    |       🗄️ SQL       |
+|     🔩 C *(próximo)*     |      🪶 SQLite      |
+| 🌐 JavaScript *(futuro)* |  💻 Terminal / CLI  |
 
 </div>
 
@@ -55,7 +55,7 @@ Meu foco é evoluir tecnicamente e, no futuro, desenvolver **softwares úteis, s
 
 </div>
 
-> 📌 O gráfico de linguagens é automático e representa a distribuição de código encontrada nos meus repositórios públicos. Ele não representa nível de domínio das linguagens.
+> 📌 O gráfico de linguagens é automático e representa a distribuição de código encontrada nos meus repositórios públicos. Ele não representa o nível de domínio das linguagens.
 
 ---
 
@@ -65,7 +65,7 @@ Meu foco é evoluir tecnicamente e, no futuro, desenvolver **softwares úteis, s
 
 Projeto criado durante meus estudos iniciais de Java para praticar entrada de dados, estruturas de repetição, condicionais, métodos e `ArrayList`.
 
-[![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ricardodecarvalholorenzib/Gerenciador-Alunos-Java)
+[![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ricardodecarvalholorenzib/Gerenciador-Alunos-Java)
 
 ### 🐍 Projetos em Python
 
@@ -94,19 +94,19 @@ Próximos passos
 
 ## 🎯 Objetivos
 
-- [x] Construir uma base sólida em Python
-- [x] Criar projetos próprios
-- [x] Aprender Git e GitHub
-- [x] Começar Java
-- [ ] Aprofundar orientação a objetos
-- [ ] Dominar SQL e bancos de dados
-- [ ] Aprender C++
-- [ ] Aprender C
-- [ ] Aprender JavaScript
-- [ ] Desenvolver APIs
-- [ ] Aprender Spring Boot
-- [ ] Publicar aplicações reais
-- [ ] Criar um produto próprio
+* [x] Construir uma base sólida em Python
+* [x] Criar projetos próprios
+* [x] Aprender Git e GitHub
+* [x] Começar Java
+* [ ] Aprofundar orientação a objetos
+* [ ] Dominar SQL e bancos de dados
+* [ ] Aprender C++
+* [ ] Aprender C
+* [ ] Aprender JavaScript
+* [ ] Desenvolver APIs
+* [ ] Aprender Spring Boot
+* [ ] Publicar aplicações reais
+* [ ] Criar um produto próprio
 
 ---
 
@@ -122,7 +122,7 @@ Prefiro transformar o que estudo em projetos reais em vez de apenas acumular cur
 
 > **Python é minha principal linguagem. Java é minha próxima grande etapa.**
 
-Estou construindo uma base que me permita entrar na universidade já confortável com programação e continuar avançando para desenvolvimento de software profissional.
+Estou construindo uma base que me permita chegar à universidade já confortável com programação e continuar avançando em direção ao desenvolvimento de software profissional.
 
 ---
 
