@@ -37,36 +37,6 @@ Meu foco é evoluir tecnicamente e, no futuro, desenvolver **softwares úteis, s
 | 🔩 C *(próximo)* | 🪶 SQLite |
 | 🌐 JavaScript *(futuro)* | 💻 Terminal / CLI |
 
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<a href="https://github.com/ricardodecarvalholorenzib">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ricardodecarvalholorenzib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&locale=pt-br" />
-</a>
-
-<a href="https://github.com/ricardodecarvalholorenzib">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=pie&langs_count=8&hide_border=true&theme=transparent&locale=pt-br" />
-</a>
-
-</div>
-
-> 📌 O gráfico de linguagens é automático e representa a distribuição de código encontrada nos meus repositórios públicos. Ele não representa o nível de domínio das linguagens.
-
-### 📈 Atividade recente
-
-<div align="center">
-
-[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ricardodecarvalholorenzib&theme=github-compact&hide_border=true)](https://github.com/ricardodecarvalholorenzib)
-
-</div>
-
----
-
 ## 🚀 Projetos em destaque
 
 ### ☕ Gerenciador de Alunos — Java
