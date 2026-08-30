@@ -1,47 +1,129 @@
-# 👋 Olá! Eu sou Ricardo
+<div align="center">
 
-💻 **Estudante e desenvolvedor em formação**, apaixonado por programação e tecnologia.
+# 👋 Olá, eu sou Ricardo!
 
-> Construindo projetos, aprendendo todos os dias e transformando ideias em código.
+### 💻 Estudante • Desenvolvedor em formação • Entusiasta de tecnologia
 
-## 🚀 Sobre mim
+[![GitHub](https://img.shields.io/badge/GitHub-ricardodecarvalholorenzib-181717?style=for-the-badge&logo=github)](https://github.com/ricardodecarvalholorenzib)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 
-- 🐍 Minha principal base atualmente é **Python**
-- ☕ Estudando **Java** e orientação a objetos
-- ⚙️ Próximos passos: **C++** e **C**
-- 🌐 Interesse futuro em **JavaScript / desenvolvimento web**
-- 🧠 Focado em fundamentos, lógica e construção de projetos reais
-- 🎓 Me preparando para seguir carreira na área de Tecnologia da Informação
+> 🚀 **Aprendendo. Construindo. Evoluindo.**
 
-## 🛠️ Tecnologias
-
-| Tecnologia | Nível / foco |
-|---|---|
-| 🐍 Python | Forte |
-| ☕ Java | Em evolução |
-| ⚙️ C++ | Próximo passo |
-| 🔧 C | Futuro |
-| 👾 C# | Futuro |
-| 🌐 JavaScript | Futuro |
-
-## 📌 Projetos
-
-Alguns projetos que fazem parte da minha evolução:
-
-- ☕ **Gerenciador de Alunos em Java** — prática dos fundamentos da linguagem.
-- 📦 **StockFlow** — sistema voltado para gerenciamento de estoque.
-- 🔐 **Gerenciador de Senhas** — projeto de prática em desenvolvimento.
-- 🧮 **Calculator** — calculadora desenvolvida para praticar programação.
-- 🤖 **Gerador de Vídeos** — projeto experimental.
-
-## 🎯 Objetivo
-
-Evoluir de projetos de aprendizado para **software real que resolva problemas reais** e, no futuro, transformar ideias em produtos que as pessoas realmente queiram usar.
-
-## 📚 Atualmente estudando
-
-**Java → POO → SQL → Git/GitHub → Backend → APIs → Spring Boot**
+</div>
 
 ---
 
-⭐ **Sempre aprendendo. Sempre construindo.**
+## 🧑‍💻 Sobre mim
+
+Sou estudante e desenvolvedor em formação, apaixonado por programação e pela criação de sistemas.
+
+Minha principal base é **Python** e atualmente estou expandindo meus conhecimentos com **Java**, com foco em fundamentos, orientação a objetos e desenvolvimento de software.
+
+Meu objetivo não é apenas aprender linguagens: quero chegar ao ponto de **transformar problemas reais em produtos que pessoas realmente usem**.
+
+---
+
+## 🛠️ Stack & Tecnologias
+
+<div align="center">
+
+### Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Ferramentas & Ecossistema
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardodecarvalholorenzib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardodecarvalholorenzib&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Evolução
+
+```text
+Python       ████████████████████  Forte
+Java         ███████████░░░░░░░░░  Em evolução
+SQL          ███████░░░░░░░░░░░░░  Aprendendo
+C++          █░░░░░░░░░░░░░░░░░░░  Próximo passo
+C            █░░░░░░░░░░░░░░░░░░░  Próximo passo
+JavaScript   █░░░░░░░░░░░░░░░░░░░  Futuro
+```
+
+---
+
+## 🚀 Projetos
+
+### ☕ Gerenciador de Alunos em Java
+
+Meu primeiro projeto em Java, criado para praticar os fundamentos da linguagem.
+
+`Scanner` • `ArrayList` • `String` • condicionais • loops • métodos
+
+### 📦 Sistemas e ferramentas em Python
+
+Projetos voltados para automação, gerenciamento de dados e aplicações de terminal, desenvolvidos enquanto aprofundo meus conhecimentos em Python.
+
+> 📌 Esta seção vai crescer junto com meus projetos.
+
+---
+
+## 🎯 Roadmap
+
+```text
+[✓] Fundamentos de Python
+[✓] Projetos próprios
+[✓] Git e GitHub
+[✓] Começar Java
+[ ] Dominar orientação a objetos
+[ ] Aprofundar SQL
+[ ] Aprender C++
+[ ] Aprender C
+[ ] Aprender JavaScript / TypeScript
+[ ] Spring Boot
+[ ] APIs REST
+[ ] PostgreSQL
+[ ] Deploy
+[ ] Criar um produto real 🚀
+```
+
+---
+
+## 💡 Filosofia
+
+> **Não quero apenas saber programar. Quero saber construir.**
+
+Cada projeto é uma oportunidade de aprender algo novo, cometer erros, entender por que deu errado e voltar melhor.
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+**Code • Learn • Build • Repeat**
+
+</div>
