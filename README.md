@@ -21,6 +21,7 @@
 | ☕ Java | Em evolução |
 | ⚙️ C++ | Próximo passo |
 | 🔧 C | Futuro |
+| 👾 C# | Futuro |
 | 🌐 JavaScript | Futuro |
 
 ## 📌 Projetos
