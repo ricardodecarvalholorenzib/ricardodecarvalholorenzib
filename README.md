@@ -6,7 +6,7 @@
 
 **Python | Java | SQL | Git | Backend**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ricardodecarvalholorenzib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardodecarvalholenzib)
+[![GitHub](https://img.shields.io/badge/GitHub-ricardodecarvalholorenzib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardodecarvalholorenzib)
 [![Python](https://img.shields.io/badge/Python-Principal-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-Estudando-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![GitHub followers](https://img.shields.io/github/followers/ricardodecarvalholorenzib?style=for-the-badge&logo=github)](https://github.com/ricardodecarvalholorenzib)
@@ -50,7 +50,7 @@ Meu foco é evoluir tecnicamente e, no futuro, desenvolver **softwares úteis, s
 </a>
 
 <a href="https://github.com/ricardodecarvalholorenzib">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=donut&langs_count=8&hide_border=true&theme=transparent&locale=pt-br" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=pie&langs_count=8&hide_border=true&theme=transparent&locale=pt-br" />
 </a>
 
 <br><br>
@@ -59,17 +59,15 @@ Meu foco é evoluir tecnicamente e, no futuro, desenvolver **softwares úteis, s
 
 </div>
 
-> 📌 **O gráfico de linguagens é automático:** as porcentagens são calculadas a partir do código dos meus repositórios públicos pelo serviço de estatísticas.
+> 📌 O gráfico de linguagens é automático e usa o código dos meus repositórios para calcular a distribuição.
 
 ---
 
 ## 📈 Uso das linguagens
 
-O gráfico abaixo acompanha automaticamente a distribuição de linguagens detectada nos meus repositórios.
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&locale=pt-br" />
 
 </div>
 
@@ -79,7 +77,7 @@ O gráfico abaixo acompanha automaticamente a distribuição de linguagens detec
 
 <div align="center">
 
-[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=ricardodecarvalholorenzib&bg_color=00000000&hide_border=true&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&color=8b949e)](https://github.com/ricardodecarvalholorenzib)
+[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=ricardodecarvalholorenzib&theme=github-compact&hide_border=true&area=true&days=90)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
