@@ -1,153 +1,161 @@
 <div align="center">
 
-# RICARDO LORENZI
+# 👋 Ricardo Lorenzi
 
-### Software Developer in Progress
+### Estudante de Tecnologia • Desenvolvedor em formação
 
-**Python • Java • Backend • Systems • Problem Solving**
+**Python | Java | SQL | Git | Backend**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ricardodecarvalholorenzib)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-ricardodecarvalholorenzib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardodecarvalholenzib)
+[![Python](https://img.shields.io/badge/Python-Principal-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-Estudando-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![GitHub followers](https://img.shields.io/github/followers/ricardodecarvalholorenzib?style=for-the-badge&logo=github)](https://github.com/ricardodecarvalholorenzib)
 
 </div>
 
 ---
 
-## PROFILE
+## 🧑‍💻 Sobre mim
 
-Estudante e desenvolvedor em formação, com foco em **engenharia de software, backend e construção de sistemas**.
+Sou estudante e desenvolvedor em formação, com interesse em **programação, desenvolvimento de sistemas e tecnologia**.
 
-Minha principal linguagem atualmente é **Python**. Estou estudando **Java** para aprofundar orientação a objetos, tipagem, arquitetura e desenvolvimento de aplicações robustas.
+Minha principal linguagem é **Python**. Atualmente estou estudando **Java**, principalmente seus fundamentos e orientação a objetos, enquanto construo projetos para colocar o conhecimento em prática.
 
-Meu objetivo é evoluir de projetos acadêmicos e experimentais para **software de produção que resolva problemas reais e gere valor para usuários e negócios**.
-
----
-
-## TECHNOLOGY STACK
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Tools & Data
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+Meu foco é evoluir tecnicamente e, no futuro, desenvolver **softwares úteis, serviços e produtos que possam ser utilizados por pessoas e empresas**.
 
 ---
 
-## CURRENT FOCUS
-
-```text
-Java / OOP             ███████████████░░░░░  75%
-Python                 ████████████████████  100%
-SQL                    ██████████░░░░░░░░░░  50%
-Git & GitHub            ██████████████░░░░░░  70%
-Backend                 ██████░░░░░░░░░░░░░░  30%
-C / C++                 ██░░░░░░░░░░░░░░░░░░  10%
-JavaScript              ██░░░░░░░░░░░░░░░░░░  10%
-```
-
-*As barras acima são uma representação pessoal do meu estágio de aprendizado, não métricas automáticas.*
-
----
-
-## DEVELOPMENT ROADMAP
-
-| Área | Status |
-|---|---|
-| Python fundamentals | ✅ Consolidado |
-| Projetos próprios | ✅ Em prática |
-| Git / GitHub | ✅ Em prática |
-| Java fundamentals | 🔄 Estudando |
-| Object-Oriented Programming | 🔄 Próximo foco |
-| SQL / Databases | 🔄 Em desenvolvimento |
-| C++ | ⏳ Próximo passo |
-| C | ⏳ Próximo passo |
-| JavaScript / TypeScript | ⏳ Futuro |
-| Spring Boot | ⏳ Futuro |
-| REST APIs | ⏳ Futuro |
-| PostgreSQL | ⏳ Futuro |
-| Cloud / Deployment | ⏳ Futuro |
-| Product development | 🎯 Objetivo |
-
----
-
-## SELECTED PROJECTS
-
-### ☕ Gerenciador de Alunos — Java
-
-Aplicação de terminal desenvolvida como projeto de entrada no ecossistema Java.
-
-**Stack:** Java • Scanner • ArrayList • controle de fluxo • métodos
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ricardodecarvalholorenzib/Gerenciador-Alunos-Java)
-
-### 🐍 Python Projects
-
-Projetos experimentais e ferramentas desenvolvidas para praticar **automação, gerenciamento de dados, lógica, CLI e organização de software**.
-
----
-
-## GITHUB ANALYTICS
+## 🧰 Tecnologias
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricardodecarvalholorenzib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+| Linguagens | Ferramentas / Dados |
+|:---:|:---:|
+| 🐍 Python | 🔧 Git |
+| ☕ Java | 🐙 GitHub |
+| ⚙️ C++ *(próximo)* | 🗄️ SQL |
+| 🔩 C *(próximo)* | 🪶 SQLite |
+| 🌐 JavaScript *(futuro)* | 💻 Terminal / CLI |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<a href="https://github.com/ricardodecarvalholorenzib">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ricardodecarvalholorenzib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&locale=pt-br" />
+</a>
+
+<a href="https://github.com/ricardodecarvalholorenzib">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=donut&langs_count=8&hide_border=true&theme=transparent&locale=pt-br" />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardodecarvalholorenzib&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardodecarvalholorenzib&theme=transparent&hide_border=true&locale=pt_BR" />
 
 </div>
 
+> 📌 **O gráfico de linguagens é automático:** as porcentagens são calculadas a partir do código dos meus repositórios públicos pelo serviço de estatísticas.
+
 ---
 
-## CONTRIBUTION ACTIVITY
+## 📈 Uso das linguagens
+
+O gráfico abaixo acompanha automaticamente a distribuição de linguagens detectada nos meus repositórios.
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardodecarvalholorenzib&hide_border=true&theme=github-compact)](https://github.com/ricardodecarvalholenzib)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodecarvalholorenzib&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## ENGINEERING PRINCIPLES
+## 🔥 Atividade
 
-- **Understand before abstracting.**
-- **Build before overengineering.**
-- **Read errors instead of fearing them.**
-- **Use documentation as part of development.**
-- **Turn theory into working software.**
-- **Keep improving old code as knowledge grows.**
+<div align="center">
+
+[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=ricardodecarvalholorenzib&bg_color=00000000&hide_border=true&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&color=8b949e)](https://github.com/ricardodecarvalholorenzib)
+
+</div>
 
 ---
 
-## LONG-TERM OBJECTIVE
+## 🚀 Projetos em destaque
+
+### ☕ Gerenciador de Alunos — Java
+
+Projeto criado durante meus estudos iniciais de Java para praticar entrada de dados, estruturas de repetição, condicionais, métodos e `ArrayList`.
+
+[![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ricardodecarvalholorenzib/Gerenciador-Alunos-Java)
+
+### 🐍 Projetos em Python
+
+Conjunto de projetos e ferramentas desenvolvidos durante minha evolução em Python, incluindo aplicações de terminal, gerenciamento de dados e automações.
+
+---
+
+## 📚 O que estou estudando
 
 ```text
-Learn → Build → Ship → Listen → Improve → Repeat
+Java
+├── Fundamentos
+├── Orientação a Objetos
+├── Collections
+└── Exceções
+
+Próximos passos
+├── SQL / Bancos de Dados
+├── C++
+├── C
+├── JavaScript
+└── Desenvolvimento Web / Backend
 ```
 
-Quero construir uma carreira baseada não apenas em conhecer linguagens, mas em **entender problemas, projetar soluções e entregar software útil**.
+---
+
+## 🎯 Objetivos
+
+- [x] Construir uma base sólida em Python
+- [x] Criar projetos próprios
+- [x] Aprender Git e GitHub
+- [x] Começar Java
+- [ ] Aprofundar orientação a objetos
+- [ ] Dominar SQL e bancos de dados
+- [ ] Aprender C++
+- [ ] Aprender C
+- [ ] Aprender JavaScript
+- [ ] Desenvolver APIs
+- [ ] Aprender Spring Boot
+- [ ] Publicar aplicações reais
+- [ ] Criar um produto próprio
+
+---
+
+## 💡 Como eu estudo
+
+**Aprender → praticar → errar → entender → refatorar → construir novamente.**
+
+Prefiro transformar o que estudo em projetos reais em vez de apenas acumular cursos e tutoriais.
+
+---
+
+## 📌 Atualmente
+
+> **Python é minha principal linguagem. Java é minha próxima grande etapa.**
+
+Estou construindo uma base que me permita entrar na universidade já confortável com programação e continuar avançando para desenvolvimento de software profissional.
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+### Obrigado por visitar meu perfil! 👋
 
-<sub>Learning software engineering one project at a time.</sub>
+⭐ **Se algum projeto for útil para você, considere deixar uma estrela.**
 
 </div>
